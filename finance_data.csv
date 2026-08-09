@@ -1,0 +1,32 @@
+date,amount,category,description
+07-01-2026,1000.0,Income,Salary
+07-02-2026,50.0,Expense,Groceries
+07-03-2026,150.0,Expense,Utilities
+07-04-2026,200.0,Income,Freelance Work
+07-05-2026,75.0,Expense,Restaurant
+07-06-2026,100.0,Expense,Transport
+07-07-2026,500.0,Income,Bonus
+07-08-2026,30.0,Expense,Snacks
+07-09-2026,250.0,Income,Stock Dividends
+07-10-2026,90.0,Expense,Entertainment
+07-11-2026,60.0,Expense,Coffee
+07-12-2026,120.0,Expense,Gas
+07-13-2026,80.0,Expense,Books
+07-14-2026,150.0,Expense,Clothing
+07-15-2026,1100.0,Income,Salary
+07-16-2026,40.0,Expense,Stationery
+07-17-2026,180.0,Expense,Utilities
+07-18-2026,250.0,Income,Freelance Work
+07-19-2026,70.0,Expense,Restaurant
+07-20-2026,130.0,Expense,Transport
+07-21-2026,600.0,Income,Bonus
+07-22-2026,35.0,Expense,Snacks
+07-23-2026,300.0,Income,Stock Dividends
+07-24-2026,100.0,Expense,Entertainment
+07-25-2026,55.0,Expense,Coffee
+07-26-2026,140.0,Expense,Gas
+07-27-2026,90.0,Expense,Books
+07-28-2026,170.0,Expense,Clothing
+07-29-2026,1200.0,Income,Salary
+07-30-2026,45.0,Expense,Stationery
+07-31-2026,190.0,Expense,Utilities
