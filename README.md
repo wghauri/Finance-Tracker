@@ -37,7 +37,7 @@ python main.py
 Enter your choice: 2
 
 Enter the start date (MM-DD-YYYY): 07-01-2026
-Enter the end date (MM-DD-YYYY): 07-03-2026
+Enter the end date (MM-DD-YYYY): 07-02-2026
 
 Filter options:
 ---------------
