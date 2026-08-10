@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-A simple command-line application to track income and expenses, view summaries, and visualize spending patterns.
+Application to track income and expenses, view financial summaries, and visualize spending patterns.
 
 ## Features
 
